@@ -1,0 +1,53 @@
+.footer-section{
+    background: #000;
+    margin: 20px;
+    padding: 5px;
+}
+
+.footer-body h2{
+    margin-top: 15px;
+    margin-left: 20px;
+    padding: 0 1rem;
+    color: #fff;
+}
+.contact-ul{
+    list-style: none;
+}
+.contact-ul li{
+    margin-top: 20px;
+}
+.footer-body a{
+    margin-top: 20px;
+    color: #fff;
+    padding: 0 1rem;
+    text-decoration: none;
+}
+
+/* ______________________ */
+.pay-card-img{
+    height: 50px;
+    width: 100px;
+}
+.btc{
+    height: 50px;
+    width: 50px;
+}
+
+.pay-card-ul1{
+    /* background:azure; */
+    margin-top: 20px;
+    display: flex;
+    /* justify-content: space-between; */
+}
+.pay-card-ul2{
+    /* background:azure; */
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.pay-card-ul2 li, .pay-card-ul1 li{
+    list-style: none;
+}
+
+/* _________________________ */
+

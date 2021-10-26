@@ -1,0 +1,10 @@
+img{
+    height: 500px;
+    width: 50px;
+    border-radius: 10px;
+    box-shadow: black;
+}
+
+h5, p{
+    color: #fff;
+}
