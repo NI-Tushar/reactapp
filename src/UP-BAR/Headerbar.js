@@ -35,7 +35,7 @@ const Headerbar=()=>{
             <div className="blank5"></div>
             <div className="navigatbar">
                 <div className="logoname">
-                    <font>a</font>bcdefgh
+                    <font>d</font>emosite
                 </div>
                 <div className="menu-icon" onClick={handleClick}>
                         <i className={clicked ? "fas fa-times" : "fas fa-bars"}></i>
