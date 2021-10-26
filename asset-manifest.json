@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.0728b378.chunk.css",
+    "main.js": "/reactapp/static/js/main.727aeb7a.chunk.js",
+    "main.js.map": "/reactapp/static/js/main.727aeb7a.chunk.js.map",
+    "runtime-main.js": "/reactapp/static/js/runtime-main.009107cf.js",
+    "runtime-main.js.map": "/reactapp/static/js/runtime-main.009107cf.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/reactapp/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.ee2685ee.chunk.js": "/reactapp/static/js/2.ee2685ee.chunk.js",
+    "static/js/2.ee2685ee.chunk.js.map": "/reactapp/static/js/2.ee2685ee.chunk.js.map",
+    "static/js/3.df6a3319.chunk.js": "/reactapp/static/js/3.df6a3319.chunk.js",
+    "static/js/3.df6a3319.chunk.js.map": "/reactapp/static/js/3.df6a3319.chunk.js.map",
+    "index.html": "/reactapp/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/reactapp/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.0728b378.chunk.css.map": "/reactapp/static/css/main.0728b378.chunk.css.map",
+    "static/js/2.ee2685ee.chunk.js.LICENSE.txt": "/reactapp/static/js/2.ee2685ee.chunk.js.LICENSE.txt",
+    "static/media/amazon.0dc295d1.jpg": "/reactapp/static/media/amazon.0dc295d1.jpg",
+    "static/media/android.109ad609.jpg": "/reactapp/static/media/android.109ad609.jpg",
+    "static/media/bitcoin.f1f882dc.png": "/reactapp/static/media/bitcoin.f1f882dc.png",
+    "static/media/facebook.3cd9c147.jpg": "/reactapp/static/media/facebook.3cd9c147.jpg",
+    "static/media/gmail.492c117c.jpg": "/reactapp/static/media/gmail.492c117c.jpg",
+    "static/media/gmailposter.205eb8c2.jpg": "/reactapp/static/media/gmailposter.205eb8c2.jpg",
+    "static/media/image1.759879e1.jpg": "/reactapp/static/media/image1.759879e1.jpg",
+    "static/media/image2.24f52100.jpg": "/reactapp/static/media/image2.24f52100.jpg",
+    "static/media/image3.c1398ad6.jpg": "/reactapp/static/media/image3.c1398ad6.jpg",
+    "static/media/logo.ad73f62d.PNG": "/reactapp/static/media/logo.ad73f62d.PNG",
+    "static/media/mastarcard.6bdd0eca.png": "/reactapp/static/media/mastarcard.6bdd0eca.png",
+    "static/media/paypal.72c72d53.png": "/reactapp/static/media/paypal.72c72d53.png",
+    "static/media/pioneer.bd25eb45.png": "/reactapp/static/media/pioneer.bd25eb45.png",
+    "static/media/referral.70d55bdb.jpg": "/reactapp/static/media/referral.70d55bdb.jpg",
+    "static/media/twitter.999a6f1e.jpg": "/reactapp/static/media/twitter.999a6f1e.jpg",
+    "static/media/visa.b12dd427.png": "/reactapp/static/media/visa.b12dd427.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.009107cf.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.ee2685ee.chunk.js",
+    "static/css/main.0728b378.chunk.css",
+    "static/js/main.727aeb7a.chunk.js"
+  ]
+}
