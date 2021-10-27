@@ -1,0 +1,146 @@
+.g-card-body{
+    background: bisque;
+    border-radius: 10px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.price-card{
+  /* background: rgb(2, 49, 68); */
+  display: grid;
+  grid-template-columns:repeat(auto-fit, minmax(10rem, 18rem));
+  gap: 2rem;
+  justify-content: center;
+}
+.price-card{
+    margin-top: 20px;
+}
+.g-card-body .bronze, .silver, .gold, .platinum{
+    position: relative;
+    height: 50px;
+    width: 288px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.g-card-body:hover{
+    transform: scale(1.02);
+}
+.bronze{
+    background: rgb(10, 99, 214);
+}
+.silver{
+    background: rgb(1, 179, 96);
+}
+.gold{
+    background: rgb(223, 108, 0);
+}
+.platinum{
+    background: rgb(216, 56, 45);
+}
+
+h3{
+    position: absolute;
+    top: 5px;
+    left: 35%;
+    color: #fff;
+}
+
+.g-card-body .price1, .price2, .price3, .price4{
+    position: relative;
+    height: 130px;
+    width: 288px;
+}
+.price1{
+    background: rgb(14, 60, 145);
+}
+.price2{
+    background: rgb(6, 102, 27);
+}
+.price3{
+    background: rgb(155, 76, 12);
+}
+.price4{
+    background: rgb(146, 13, 13);
+}
+h1{
+    position: absolute;
+    top: 40px;
+    left: 110px;
+    color:#fff;
+}
+.card-ul{
+    border-radius: 10px;
+}
+
+
+/* _____________ card list work */
+
+/* .card-ul ul li{
+    text-decoration: none;
+    background: chartreuse;
+} */
+.one a, .two a, .three a, .four a, .five a, .six a, .seven a, .eight a{
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: 700;
+    font-style: bold;
+}
+.one, .three, .five, .seven{
+    background: #ffff;
+}
+.two, .four, .six, .eight{
+    background: #dfdfdfdf;
+}
+.one, .two, .three, .four, .five, .six, .seven, .eight{
+    padding: 8px;
+}
+.g-card-btn1, .g-card-btn2, .g-card-btn3, .g-card-btn4{
+    margin: 10px 0px 10px 32px;
+    background: #dfdfdf;
+    border-radius: 5px;
+    height: 40px;
+    width: 220px;
+}
+.g-card-btn1 h5, .g-card-btn2 h5, .g-card-btn3 h5, .g-card-btn4 h5{
+    color: #000;
+}
+.g-card-btn1:hover{
+    background:rgb(14, 60, 145);
+    color:#fff;
+}
+.g-card-btn2:hover{
+    background:rgb(6, 102, 27);
+    color:#fff;
+}
+.g-card-btn3:hover{
+    background:rgb(155, 76, 12);
+    color:#fff;
+}
+.g-card-btn4:hover{
+    background:rgb(146, 13, 13);
+    color:#fff;
+}
+
+.b-one{
+    background: rgb(10, 99, 214);
+}
+.b-two{
+    background: rgb(1, 179, 96);
+}
+.b-three{
+    background: rgb(223, 108, 0);
+}
+.b-four{
+    background: rgb(216, 56, 45);
+}
+/* .g-card-btn1 h5:hover{
+    color:#fff;
+}
+.g-card-btn2 h5:hover{
+    color:#fff;
+}
+.g-card-btn3 h5:hover{
+    color:#fff;
+}
+.g-card-btn4 h5:hover{
+    color:#fff;
+} */
