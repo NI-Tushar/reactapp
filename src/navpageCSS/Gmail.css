@@ -14,6 +14,7 @@
     position: relative;
 }
 .poster .gmail-poster{
+    margin-top: 10px;
     height: 400px;
     width: 100%;
 }
@@ -86,5 +87,40 @@
     grid-template-columns:1fr minmax(300px, 1300px) 1fr;
 }
 .g-price-card{
+    background: rgb(2, 49, 68);
+}
+
+/* ___________________ gmail-bulk */
+.gmail-bulk{
+    display: grid;
+    background: rgb(2, 49, 68);
+    grid-template-columns:1fr minmax(300px, 1300px) 1fr;
+}
+.gmail-bulk-1{
+    margin-top: 20px;
+    /* background: tomato; */
+}
+.gmail-bulk-1 h4{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+.gmail-bulk-1 p{
+    margin-left: 10px;
+    margin-bottom: 50px;
+    color: #fff;
+}
+
+.gmail-bulk-2{
+    margin-top: 60px;
+}
+
+/* ________________________________ gmail bulk card */
+.gmail-bulk-card{
+    display: grid;
+    background: rgb(2, 49, 68);
+    grid-template-columns:1fr minmax(300px, 1300px) 1fr;
+}
+.g-bulk-card{
     background: rgb(2, 49, 68);
 }

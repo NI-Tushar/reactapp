@@ -11,7 +11,6 @@ import Headerbar from './UP-BAR/Headerbar.js';
 import Homepage from './Homepage.js';
 import Gmail from './NAVPAGE/Gmail';
 import Amazon from './NAVPAGE/Amazon.js';
-import Social from './NAVPAGE/Social.js';
 import Service from './NAVPAGE/Service';
 import About from './NAVPAGE/About.js';
 import Contact from './NAVPAGE/Contact.js';
@@ -29,7 +28,6 @@ function App() {
         <Route exact path="/" component={Homepage}></Route>
         <Route path="/Gmail" component={Gmail}></Route>
         <Route path="/Amazon" component={Amazon}></Route>
-        <Route path="/Social" component={Social}></Route>
         <Route path="/Service" component={Service}></Route>
         <Route path="/About" component={About}></Route>
         <Route path="/Contact" component={Contact}></Route>

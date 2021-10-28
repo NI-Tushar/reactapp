@@ -5,24 +5,28 @@
 
 /* __________________________ GRID VIEW_________ */
 .headerbar{
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
     display: grid;
     grid-template-columns: 1fr minmax(90px, 90px) minmax(200px, 1200px) 1fr;
     height: 120px;
 }
 
 .blank1{
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
 }
 .blank2{
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
 }
 .headitem{
     grid-column-start: 3;
     grid-column-end: 4;
 }
 .logobar{
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 1;
@@ -30,37 +34,45 @@
 }
 .midbar{
     /* background: rgb(16, 24, 39); */
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
     grid-column-start: 3;
     grid-column-end: 4;
 }
 .blank3{
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
     grid-column-start: 4;
     grid-column-end: 6;
     grid-row-start: 2;
     grid-row-end: 3;
 }
+
 .navigatbar{
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
     grid-column-start: 2;
     grid-column-end: 4;
 }
 .blank3{
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
     grid-column-start: 1;
     grid-column-end: 2;
 }
 .blank4{
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
 }
 .blank5{
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
     grid-column-start: 1;
     grid-column-end: 2;
 }
 .blank6{
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 67, 139);
     grid-column-start: 4;
     grid-column-end: 5;
     grid-row-start: 3;

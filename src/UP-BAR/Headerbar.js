@@ -45,7 +45,7 @@ const Headerbar=()=>{
                             <li><Link to="/Homepage"><a>Home</a></Link></li>
                             <li><Link to="/Gmail"><a>Buy Gmail Account</a></Link></li>
                             <li><Link to="/Amazon"><a>Buy Amazon Account</a></Link></li>
-                            <li className='social'><Link to="/Social"><a>Social Media Account</a></Link>
+                            <li className='social'><Link to="/Buyfacebook"><a>Social Media Account</a></Link>
                                 <div className="submenu-1">
                                     <ul>
                                         <li><Link to="/Buyfacebook"><a>Facebook Accounts</a></Link></li>

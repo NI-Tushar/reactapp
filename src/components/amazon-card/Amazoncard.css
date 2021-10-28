@@ -1,0 +1,55 @@
+.price-1, .price-2, .price-3, .price-4, .price-5{
+    position: relative;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    border-radius: 200px;
+    height: 120px;
+    width: 120px;
+}
+.price-1 h1, .price-2 h1, .price-3 h1, .price-4 h1, .price-5 h1{
+    top: 35px;
+    left: 27px;
+}
+.h5 h5{
+    left: 100px;
+}
+.plat h5{
+    left: 100px;
+}
+.h5 h5{
+    left: 120px;
+}
+
+.price-1{
+    background: rgb(14, 60, 145);
+}
+.price-2{
+    background: rgb(6, 102, 27);
+}
+.price-3{
+    background: rgb(155, 76, 12);
+}
+.price-4{
+    background: rgb(146, 13, 13);
+}
+.price-5{
+    background: rgb(148, 3, 245);
+}
+.b-five{
+    background: rgb(81, 14, 121);
+}
+.plat{
+    background: rgb(81, 14, 121);
+}
+.g-card-btn5{
+    margin: 10px 0px 10px 32px;
+    border-radius: 5px;
+    height: 40px;
+    width: 220px;
+}
+.g-card-btn5 h5{
+    color: #000;
+}
+.g-card-btn5:hover{
+    background: rgb(148, 3, 245);
+}

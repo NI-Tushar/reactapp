@@ -74,10 +74,6 @@ h1{
 
 /* _____________ card list work */
 
-/* .card-ul ul li{
-    text-decoration: none;
-    background: chartreuse;
-} */
 .one a, .two a, .three a, .four a, .five a, .six a, .seven a, .eight a{
     margin-left: 30px;
     font-size: 18px;
@@ -132,15 +128,3 @@ h1{
 .b-four{
     background: rgb(216, 56, 45);
 }
-/* .g-card-btn1 h5:hover{
-    color:#fff;
-}
-.g-card-btn2 h5:hover{
-    color:#fff;
-}
-.g-card-btn3 h5:hover{
-    color:#fff;
-}
-.g-card-btn4 h5:hover{
-    color:#fff;
-} */
