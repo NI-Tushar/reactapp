@@ -1,0 +1,51 @@
+.contact-poster{
+    display: grid;
+    background: rgb(2, 49, 68);
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    grid-template-columns: 1fr minmax(300px, 1000px) 1fr;
+}
+.contact{
+    background: rgb(2, 49, 68);
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+.poster{
+    margin-top: 20px;
+}
+.poster h4{
+    color: #fff;
+}
+.logo-image{
+    height: 50px;
+    width: 50px;
+}
+.fb-image{
+    height: 40px;
+    width: 40px;
+    margin-right: 6px;
+    margin-left: 5px;
+}
+.sk-image{
+    height: 45px;
+    width: 45px;
+    margin-right: 5px;
+    margin-left: 3px;
+}
+
+.contact-card-body{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+}
+.contact-card-body a{
+    text-decoration: none;
+    color: #fff;
+}
+
+font:hover{
+    color: red;
+}
+
+/* _______________________ payment box */
