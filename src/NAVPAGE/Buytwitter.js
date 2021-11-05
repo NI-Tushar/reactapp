@@ -15,7 +15,7 @@ const Buytwitter=()=>{
                     <div>
                         <img src={twitterposter} className="gmail-poster" alt="" />
                     </div>
-                    <h2>Buy PVA Twitter accounts At cheap price</h2>
+                    <h2>Buy Twitter accounts At cheap price</h2>
                     <div className="poster-desc">
                         <h3>Twitter Account Features</h3>
                         <ul>

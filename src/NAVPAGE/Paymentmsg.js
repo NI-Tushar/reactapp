@@ -25,7 +25,7 @@ const Paymentmsg=()=>{
             <div className="model">
             <div className="overlay"></div>
             <div className="model-content">
-                <h2>Message Sent</h2>
+                <h3>Message Sent</h3>
                 <button className='close-model' onClick={toggleModel}>CLOSE</button>
             </div>
         </div>

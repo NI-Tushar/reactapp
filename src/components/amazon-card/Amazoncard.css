@@ -9,6 +9,7 @@
 .price-1 h1, .price-2 h1, .price-3 h1, .price-4 h1, .price-5 h1{
     top: 35px;
     left: 27px;
+    color: #fff;
 }
 .h5 h5{
     left: 100px;

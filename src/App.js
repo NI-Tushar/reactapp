@@ -10,6 +10,7 @@ import Headerbar from './UP-BAR/Headerbar.js';
 
 import Homepage from './Homepage.js';
 import Gmail from './NAVPAGE/Gmail';
+import Voice from './NAVPAGE/Voice';
 import Amazon from './NAVPAGE/Amazon.js';
 import Service from './NAVPAGE/Service';
 import About from './NAVPAGE/About.js';
@@ -27,6 +28,7 @@ function App() {
       <Switch>
         <Route exact path="/" component={Homepage}></Route>
         <Route path="/Gmail" component={Gmail}></Route>
+        <Route path="/Voice" component={Voice}></Route>
         <Route path="/Amazon" component={Amazon}></Route>
         <Route path="/Service" component={Service}></Route>
         <Route path="/About" component={About}></Route>

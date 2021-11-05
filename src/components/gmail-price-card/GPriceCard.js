@@ -9,7 +9,7 @@ const GPriceCard=()=>{
                    <h3>Bronze</h3>
                </div>
                 <div className="price1">
-                    <h1>$15</h1>
+                    <h2>$15</h2>
                 </div>
                 <div className="card-ul">
                    
@@ -31,7 +31,7 @@ const GPriceCard=()=>{
                     <h3>Silver</h3>
                </div>
                 <div className="price2">
-                    <h1>$25</h1>
+                    <h2>$25</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>100 gmail Accounts</a></div>
@@ -51,7 +51,7 @@ const GPriceCard=()=>{
                     <h3>Gold</h3>
                </div>
                 <div className="price3">
-                    <h1>$100</h1>
+                    <h2>$100</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>500 gmail Accounts</a></div>
@@ -71,7 +71,7 @@ const GPriceCard=()=>{
                     <h3>Platinum</h3>
                </div>
                 <div className="price4">
-                   <h1>$200</h1>
+                   <h2>$200</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>1000 gmail Accounts</a></div>

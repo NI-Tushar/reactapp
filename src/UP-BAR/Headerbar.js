@@ -20,8 +20,8 @@ const Headerbar=()=>{
             </div>
             <div className="headitem">
             <ul className="headlinks">
-                <a className="contact-1" href="">+88 01777608508</a>
-                <a className="contact-2" href="">abcdefghijkl@gmail.com</a>
+                <a className="contact-1" href="https://web.whatsapp.com/">+88 017*******8</a>
+                <Link to="/Contact"><a className="contact-2" href="">usaservice@gmail.com</a></Link>
                 {/* <li><a href="#">Login</a></li>
                 <li><a href="#">SignUp</a></li> */}
             </ul>
@@ -35,7 +35,7 @@ const Headerbar=()=>{
             <div className="blank5"></div>
             <div className="navigatbar">
                 <div className="logoname">
-                    <font>d</font>emosite
+                    <font>usa</font>service
                 </div>
                 <div className="menu-icon" onClick={handleClick}>
                         <i className={clicked ? "fas fa-times" : "fas fa-bars"}></i>
@@ -44,6 +44,7 @@ const Headerbar=()=>{
                         <ul>
                             <li><Link to="/Homepage"><a>Home</a></Link></li>
                             <li><Link to="/Gmail"><a>Buy Gmail Account</a></Link></li>
+                            <li><Link to="/Voice"><a>Buy Google Voice Account</a></Link></li>
                             <li><Link to="/Amazon"><a>Buy Amazon Account</a></Link></li>
                             <li className='social'><Link to="/Buyfacebook"><a>Social Media Account</a></Link>
                                 <div className="submenu-1">

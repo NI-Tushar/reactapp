@@ -61,32 +61,27 @@
     background: rgb(3, 160, 113);
 }
 
-
-
 /* ______________________ DIALOGUE BOX */
 .model, .overlay{
-    /* width: 100vw;
-    height: 100vh; */
     top:50;
     left:40%;
-    /* right:50; */
     bottom: 50;
     position: fixed;
-    /* background: blue; */
 }
 .model-content{
     position: relative;
     height: 150px;
     width: 300px;
-    background: rgb(2, 49, 68);
+    /* background: rgb(2, 49, 68); */
+    background: rgb(3, 160, 113);;
     border-radius: 5px;
     border-color: #000;
 }
-.model-content h2{
+.model-content h3{
     margin-top: 20px;
     position: absolute;
     color: #fff;
-    left: 50px;
+    left: 55px;
 }
 .model-content button{
     position: absolute;

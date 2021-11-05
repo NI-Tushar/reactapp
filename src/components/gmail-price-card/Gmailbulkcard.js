@@ -9,7 +9,7 @@ const Gmailbulkcard=()=>{
                    <h5>STANDARD PACKEGE-1</h5>
                </div>
                 <div className="price1">
-                    <h1>$90</h1>
+                    <h2>$90</h2>
                 </div>
                 <div className="card-ul">
                    
@@ -30,7 +30,7 @@ const Gmailbulkcard=()=>{
                     <h5>STANDARD PACKAGE-2</h5>
                </div>
                 <div className="price2">
-                    <h1>$180</h1>
+                    <h2>$180</h2>
                 </div>
                 <div className="card-ul">
                     
@@ -51,7 +51,7 @@ const Gmailbulkcard=()=>{
                     <h5>STANDARD PACKAGE-3</h5>
                </div>
                 <div className="price3">
-                    <h1>$280</h1>
+                    <h2>$280</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>10 gmail Accounts</a></div>
@@ -71,7 +71,7 @@ const Gmailbulkcard=()=>{
                     <h5>STANDARD PACKAGE-4</h5>
                </div>
                 <div className="price4">
-                   <h1>$350</h1>
+                   <h2>$350</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>10 gmail Accounts</a></div>

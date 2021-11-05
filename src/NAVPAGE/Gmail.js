@@ -16,7 +16,7 @@ const Gmail=()=>{
                     <div>
                         <img src={gmailposter} className="gmail-poster" alt="" />
                     </div>
-                    <h2>Buy Gmail Accounts instant delivery at affordable prices</h2>
+                    <h2>Buy Gmail Accounts instant delivery at affortable prices</h2>
                     <div className="poster-desc">
                         <h3>Gmail Accounts Features</h3>
                         <ul>

@@ -9,7 +9,7 @@ const Facebookcard=()=>{
                    <h3>Bronze</h3>
                </div>
                 <div className="price1">
-                    <h1>$20</h1>
+                    <h2>$20</h2>
                 </div>
                 <div className="card-ul">
                    
@@ -31,7 +31,7 @@ const Facebookcard=()=>{
                     <h3>Silver</h3>
                </div>
                 <div className="price2">
-                    <h1>$50</h1>
+                    <h2>$50</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>25 Gmail Accounts</a></div>
@@ -51,7 +51,7 @@ const Facebookcard=()=>{
                     <h3>Gold</h3>
                </div>
                 <div className="price3">
-                    <h1>$100</h1>
+                    <h2>$100</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>50 Gmail Accounts</a></div>
@@ -71,7 +71,7 @@ const Facebookcard=()=>{
                     <h3>Platinum</h3>
                </div>
                 <div className="price4">
-                   <h1>$190</h1>
+                   <h2>$190</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>100 Gmail Accounts</a></div>

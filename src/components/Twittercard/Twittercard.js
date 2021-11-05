@@ -9,7 +9,7 @@ const Twittercard=()=>{
                    <h3>Bronze</h3>
                </div>
                 <div className="price1">
-                    <h1>$20</h1>
+                    <h2>$20</h2>
                 </div>
                 <div className="card-ul">
                    
@@ -31,7 +31,7 @@ const Twittercard=()=>{
                     <h3>Silver</h3>
                </div>
                 <div className="price2">
-                    <h1>$50</h1>
+                    <h2>$50</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one subone"><a>25 Twitter Accounts</a></div>
@@ -51,7 +51,7 @@ const Twittercard=()=>{
                     <h3>Gold</h3>
                </div>
                 <div className="price3">
-                    <h1>$100</h1>
+                    <h2>$100</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one subone"><a>50 Twitter Accounts</a></div>
@@ -71,7 +71,7 @@ const Twittercard=()=>{
                     <h3>Platinum</h3>
                </div>
                 <div className="price4">
-                   <h1>$190</h1>
+                   <h2>$190</h2>
                 </div>
                 <div className="card-ul">
                         <div className="one subone"><a>100 Twitter Accounts</a></div>

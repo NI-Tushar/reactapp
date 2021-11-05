@@ -1,0 +1,151 @@
+.v-card-body{
+    background: bisque;
+    border-radius: 10px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.price-cardv{
+  /* background: rgb(2, 49, 68); */
+  display: grid;
+  grid-template-columns:repeat(auto-fit, minmax(5rem, 12rem));
+  gap: 2rem;
+  justify-content: center;
+}
+.price-cardv{
+    margin-top: 20px;
+}
+.v-card-body .bronzes, .silvers, .golds, .platinums{
+    position: relative;
+    height: 65px;
+    width: 192px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.bronzes h5, .silvers h5, .golds h5, .platinums h5{
+    margin-left: 25px;
+}
+.v-card-body:hover{
+    transform: scale(1.02);
+}
+.bronzes{
+    background: rgb(141, 22, 22);
+}
+.silvers{
+    background: rgb(141, 22, 22);
+}
+.golds{
+    background: rgb(141, 22, 22);
+}
+.platinums{
+    background: rgb(141, 22, 22);
+}
+
+h3{
+    position: absolute;
+    top: 5px;
+    left: 35%;
+    color: #fff;
+}
+
+.v-card-body .vprice1, .vprice2, .vprice3, .vprice4{
+    position: relative;
+    height: 130px;
+    width: 192px;
+}
+.vprice1{
+    background: #fff;
+    /* background: rgb(14, 60, 145); */
+}
+.vprice2{
+    /* background: rgb(6, 102, 27); */
+    background: #fff;
+}
+.vprice3{
+    /* background: rgb(155, 76, 12); */
+    background: #fff;
+}
+.vprice4{
+    /* background: rgb(146, 13, 13); */
+    background: #fff;
+}
+h1{
+    position: absolute;
+    top: 40px;
+    left: 60px;
+    color:#000;
+}
+.vcard-ul{
+    border-radius: 10px;
+    background: #fff;
+}
+
+
+/* _____________ card list work */
+
+.ones a, .twos a, .threes a, .fours a, .fives a, .sixs a, .sevens a, .eights a{
+    margin-left: 30px;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: bold;
+    border-radius: 0px;
+}
+.ones, .threes, .fives, .sevens{
+    border-radius: 0px;
+    background: #dfdfdfdf;
+}
+.twos, .fours, .sixs, .eights{
+    background: #ffff;
+}
+.ones, .twos, .threes, .fours, .fives, .sixs, .sevens, .eights{
+    padding: 8px;
+}
+.v-card-btn1, .v-card-btn2, .v-card-btn3, .v-card-btn4{
+    margin: 10px 0px 10px 32px;
+    background: rgb(141, 22, 22);
+    border-radius: 5px;
+    height: 40px;
+    width: 130px;
+}
+.v-card-btn1 h5, .v-card-btn2 h5, .v-card-btn3 h5, .v-card-btn4 h5{
+    color: #fff;
+}
+.v-card-btn1:hover{
+    background:#dfdfdfdf;
+}
+.v-card-btn1 h5:hover{
+    color:#000;
+}
+.v-card-btn2:hover{
+    background:#dfdfdfdf;
+    color:#000;
+}
+.v-card-btn2 h5:hover{
+    color:#000;
+}
+.v-card-btn3:hover{
+    background:#dfdfdfdf;
+    color:#000;
+}
+.v-card-btn3 h5:hover{
+    color:#000;
+}
+.v-card-btn4:hover{
+   background:#dfdfdfdf;
+    color:#000;
+}
+.v-card-btn4 h5:hover{
+    color:#000;
+}
+
+/* .b-one{
+    background: rgb(10, 99, 214);
+}
+.b-two{
+    background: rgb(1, 179, 96);
+}
+.b-three{
+    background: rgb(223, 108, 0);
+}
+.b-four{
+    background: rgb(216, 56, 45);
+} */

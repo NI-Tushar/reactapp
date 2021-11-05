@@ -78,7 +78,7 @@ const Buyfacebook=()=>{
                     Through Facebook, you’ll engage the target audiences to your page. Target audiences mean the visitors which will make a buying deal. briefly the important buyers. Around 1.7 billion people use Facebook and you don’t want all of them on your page. you only need the target audiences and Facebook will do this for you.
                     </p>
                     
-                    <h4 className="gmail-bulk-2">Buy PVA Facebook accounts</h4>
+                    <h4 className="gmail-bulk-2">Buy Facebook accounts</h4>
                     <p className="gmail-bulk-2-desc">Phone number verified accounts accompany extremely reliable security options. Your Facebook page will definitely have many confidential documents that ought to not attend wrong hands. to keep up your data safe confirm to purchase PVA accounts. Again such accounts are often run through your smartphones as an application so these come quite handy and simple to handle. You don’t always need to believe our desktop. make sure you don’t buy fake Facebook account because it will ruin your business.</p>
                      <h4 className="gmail-bulk-2">Why should you need to buy Facebook account?</h4>
                     <p className="gmail-bulk-2-desc">This is the foremost commonly aroused question. Let me support you to know why actually Facebook marketing is vital for your business profit.

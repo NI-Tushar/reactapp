@@ -9,7 +9,7 @@ const Androidcard=()=>{
                    <h5>Bronze</h5>
                </div>
                 <div className="price-1">
-                    <h1>$25</h1>
+                    <h3 style={{marginTop:"35px"}}>$25</h3>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>10 Review</a></div>      
@@ -23,7 +23,7 @@ const Androidcard=()=>{
                     <h5>Silver</h5>
                </div>
                 <div className="price-2">
-                    <h1>$50</h1>
+                    <h3 style={{marginTop:"35px"}}>$50</h3>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>25 Review</a></div>
@@ -37,7 +37,7 @@ const Androidcard=()=>{
                     <h5>STANDARD</h5>
                </div>
                 <div className="price-3">
-                    <h1>$100</h1>
+                    <h3 style={{marginTop:"35px"}}>$100</h3>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>50 Review</a></div>
@@ -51,7 +51,7 @@ const Androidcard=()=>{
                     <h5>Platinum</h5>
                </div>
                 <div className="price-4">
-                   <h1>$200</h1>
+                   <h3 style={{marginTop:"35px", marginRight:"15px"}}>$200</h3>
                 </div>
                 <div className="card-ul">
                         <div className="one"><a>100 Review</a></div>

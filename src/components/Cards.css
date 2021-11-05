@@ -3,19 +3,32 @@
     width: 200px;
 }
 .card-btn{
+    position: absolute;
+    bottom: 5px;
     padding: 1rem;
     width: 350px;
     font-family: inherit;
     font-weight: bold;
     font-size: 1rem;
     border: 2px solid rgb(2, 125, 173);
-    margin: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
     background: transparent;
     color: #fff;
     border-radius: 5px;
     transition:ease 200ms ease-in, color 200ms ease-in;
+    margin-bottom: 5px;
+}
+.card-body{
+     height: 550px;
+}
+.referral-body h2{
+    margin-left: -30px;
 }
 .card{
+    position: relative;
   margin-top: 5px;
   overflow: hidden;
   /* box-shadow: 0 2px 20px gray; */
@@ -31,6 +44,9 @@
     height: 15rem;
     width: 100%;
     object-fit: cover;
+}
+.voice_h2{
+    margin-right: 10px;
 }
 .card h2{
     padding: 0.5rem;
