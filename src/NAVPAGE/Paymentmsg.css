@@ -63,6 +63,44 @@
 
 
 
+/* ______________________ DIALOGUE BOX */
+.model, .overlay{
+    /* width: 100vw;
+    height: 100vh; */
+    top:50;
+    left:40%;
+    /* right:50; */
+    bottom: 50;
+    position: fixed;
+    /* background: blue; */
+}
+.model-content{
+    position: relative;
+    height: 150px;
+    width: 300px;
+    background: rgb(2, 49, 68);
+    border-radius: 5px;
+    border-color: #000;
+}
+.model-content h2{
+    margin-top: 20px;
+    position: absolute;
+    color: #fff;
+    left: 50px;
+}
+.model-content button{
+    position: absolute;
+    left: 110px;
+    top: 90px;
+    height: 30px;
+    width: 80px;
+    background: chocolate;
+    color: #fff;
+}
+.overlay{
+    background: rgba(49, 49,49,0.8);
+}
+
 /* .container{
     width: 500px;
     height: 900px;

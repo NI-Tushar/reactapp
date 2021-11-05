@@ -22,8 +22,8 @@ const Headerbar=()=>{
             <ul className="headlinks">
                 <a className="contact-1" href="">+88 01777608508</a>
                 <a className="contact-2" href="">abcdefghijkl@gmail.com</a>
-                <li><a href="#">Login</a></li>
-                <li><a href="#">SignUp</a></li>
+                {/* <li><a href="#">Login</a></li>
+                <li><a href="#">SignUp</a></li> */}
             </ul>
             </div>
             <div className="blank2"></div>

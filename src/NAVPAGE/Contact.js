@@ -32,7 +32,7 @@ const Contact=()=>{
         <div className="gmail-price-card">
                <div className="blank-1">
                </div>
-               <div className="g-price-card">
+               <div className="g-price-card payment-box">
                      <Paymentmsg />
                </div>
                <div className="blank-2">

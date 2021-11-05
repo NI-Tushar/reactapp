@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 // import './Amazoncard.css'
 const Referralscard=()=>{
     return (
@@ -13,7 +14,7 @@ const Referralscard=()=>{
                 <div className="card-ul">
                         <div className="one"><a>For 25 Referrals</a></div>      
                         <div className="two"><a>Email Verified</a></div>      
-             <button className="g-card-btn1"><h5>Contact Now</h5></button>         
+             <Link to="/Contact"><button className="g-card-btn1"><h5>Contact Now</h5></button></Link>         
                 </div>
            </div>
 
@@ -27,7 +28,7 @@ const Referralscard=()=>{
                 <div className="card-ul">
                         <div className="one"><a>For 50 Referrals</a></div>
                         <div className="two"><a>Email Verified</a></div>
-             <button className="g-card-btn2"><h5>Contact Now</h5></button>          
+             <Link to="/Contact"><button className="g-card-btn2"><h5>Contact Now</h5></button></Link>          
                 </div>
            </div>
 
@@ -41,7 +42,7 @@ const Referralscard=()=>{
                 <div className="card-ul">
                         <div className="one"><a>For 75 Referrals</a></div>
                         <div className="two"><a>Email Verified</a></div>
-             <button className="g-card-btn3"><h5>Contact Now</h5></button>          
+             <Link to="/Contact"><button className="g-card-btn3"><h5>Contact Now</h5></button></Link>          
                 </div>
            </div>
 
@@ -55,7 +56,7 @@ const Referralscard=()=>{
                 <div className="card-ul">
                         <div className="one"><a>For 100 Referrals</a></div>
                         <div className="two"><a>Email Verified</a></div>
-            <button className="g-card-btn4"><h5>Contact Now</h5></button>           
+           <Link to="/Contact"><button className="g-card-btn4"><h5>Contact Now</h5></button></Link>           
                 </div>
            </div>
 

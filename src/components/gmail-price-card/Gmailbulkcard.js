@@ -1,4 +1,4 @@
-
+import { Link } from 'react-router-dom';
 import './Gmailbulkcard.css'
 const Gmailbulkcard=()=>{
     return (
@@ -21,7 +21,7 @@ const Gmailbulkcard=()=>{
                         <div className="six"><a>7 days replacement</a></div>
                         <div className="seven"><a>100% Real Account</a></div>
                         <div className="eight"><a>Delivery 1-24 Hours</a></div>              
-             <button className="g-card-btn1"><h5>Contact Now</h5></button>         
+             <Link to="/Contact"><button className="g-card-btn1"><h5>Contact Now</h5></button></Link>           
                 </div>
            </div>
 
@@ -42,7 +42,7 @@ const Gmailbulkcard=()=>{
                         <div className="six"><a>7 days replacement</a></div>
                         <div className="seven"><a>100% Real Account</a></div>
                         <div className="eight"><a>Delivery 1-24 Hours</a></div>
-             <button className="g-card-btn2"><h5>Contact Now</h5></button>          
+             <Link to="/Contact"><button className="g-card-btn2"><h5>Contact Now</h5></button></Link>         
                 </div>
            </div>
 
@@ -62,7 +62,7 @@ const Gmailbulkcard=()=>{
                         <div className="six"><a>7 days replacement</a></div>
                         <div className="seven"><a>100% Real Account</a></div>
                         <div className="eight"><a>Delivery 1-48 Hours</a></div>
-             <button className="g-card-btn3"><h5>Contact Now</h5></button>          
+             <Link to="/Contact"><button className="g-card-btn3"><h5>Contact Now</h5></button></Link>          
                 </div>
            </div>
 
@@ -82,7 +82,7 @@ const Gmailbulkcard=()=>{
                         <div className="six"><a>7 days replacement</a></div>
                         <div className="seven"><a>100% Real Account</a></div>
                         <div className="eight"><a>Delivery 1-72 Hours</a></div>   
-             <button className="g-card-btn4"><h5>Contact Now</h5></button>           
+             <Link to="/Contact"><button className="g-card-btn4"><h5>Contact Now</h5></button></Link>           
                 </div>
            </div>
        </div>
