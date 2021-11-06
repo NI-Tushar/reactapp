@@ -62,7 +62,7 @@ const Voice=()=>{
                    
                         <div className="ones"><a>From Unique IP</a></div>
                         <div className="twos"><a>Phone Verified</a></div>
-                        <div className="threes"><a>24 Hours Delivery</a></div>
+                        <div className="threes"><a>24 Hrs Delivery</a></div>
                         <div className="fours"><a>Revision</a></div>
                         <div className="fives"><a>Recovery Added</a></div>
                         <div className="sixs"><a>Fresh Account</a></div>
@@ -82,7 +82,7 @@ const Voice=()=>{
                 <div className="vcard-ul">
                         <div className="ones"><a>From Unique IP</a></div>
                         <div className="twos"><a>Phone Verified</a></div>
-                        <div className="threes"><a>24 Hours Delivery</a></div>
+                        <div className="threes"><a>24 Hrs Delivery</a></div>
                         <div className="fours"><a>Revision</a></div>
                         <div className="fives"><a>Recovery Added</a></div>
                         <div className="sixs"><a>Fresh Account</a></div>
@@ -100,7 +100,7 @@ const Voice=()=>{
                 <div className="vcard-ul">
                         <div className="ones"><a>From Unique IP</a></div>
                         <div className="twos"><a>Phone Verified</a></div>
-                        <div className="threes"><a>24 Hours Delivery</a></div>
+                        <div className="threes"><a>24 Hrs Delivery</a></div>
                         <div className="fours"><a>Revision</a></div>
                         <div className="fives"><a>Recovery Added</a></div>
                         <div className="sixs"><a>Fresh Account</a></div>
@@ -118,7 +118,7 @@ const Voice=()=>{
                 <div className="vcard-ul">
                         <div className="ones"><a>From Unique IP</a></div>
                         <div className="twos"><a>Phone Verified</a></div>
-                        <div className="threes"><a>24 Hours Delivery</a></div>
+                        <div className="threes"><a>24 Hrs Delivery</a></div>
                         <div className="fours"><a>Revision</a></div>
                         <div className="fives"><a>Recovery Added</a></div>
                         <div className="sixs"><a>Fresh Account</a></div>  
@@ -136,7 +136,7 @@ const Voice=()=>{
                 <div className="vcard-ul">
                        <div className="ones"><a>From Unique IP</a></div>
                         <div className="twos"><a>Phone Verified</a></div>
-                        <div className="threes"><a>24 Hours Delivery</a></div>
+                        <div className="threes"><a>24 Hrs Delivery</a></div>
                         <div className="fours"><a>Revision</a></div>
                         <div className="fives"><a>Recovery Added</a></div>
                         <div className="sixs"><a>Fresh Account</a></div>   
