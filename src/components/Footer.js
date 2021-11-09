@@ -36,9 +36,9 @@ const Footer=()=>{
                 <h2>Contact Us</h2>
                 <ul className="contact-ul">
                     <li><a href="https://web.whatsapp.com/">Whatsapp: +88 017******08</a></li>
-                    <li><a href="https://accounts.google.com/">Gmail: usaservice@gmail.com</a></li>
+                    <li><a href="https://accounts.google.com/">Gmail: nguyenguyen1233@gmail.com</a></li>
                     <li><a href="https://accounts.facebook.com/">Facebook: www.facebook.com</a></li>
-                    <li><a href="https://www.skype.com/en/">Skype: usaservice@gmail.com</a></li>
+                    <li><a href="https://www.skype.com/en/">Skype: nguyenguyen1233@gmail.com</a></li>
                 </ul>               
             </div>    
        </div>

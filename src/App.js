@@ -6,6 +6,8 @@ import {
   Switch
 } from 'react-router-dom';
 
+import ScrollToTop from './ScrollToTop.js';
+
 import Headerbar from './UP-BAR/Headerbar.js';
 
 import Homepage from './Homepage.js';
@@ -24,6 +26,7 @@ function App() {
   return (
     <>
     <Router>
+      <ScrollToTop />
       <Headerbar />
       <Switch>
         <Route exact path="/" component={Homepage}></Route>

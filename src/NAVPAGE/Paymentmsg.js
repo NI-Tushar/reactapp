@@ -1,15 +1,13 @@
 import React, {useState} from "react";
 import emailjs from 'emailjs-com'
 import './Paymentmsg.css'
-import img1 from '../images/pay-card-logo/paypal.png'
-import img2 from '../images/pay-card-logo/mastarcard.png'
-import img3 from '../images/pay-card-logo/bitcoin.png'
+
 
 
 const Paymentmsg=()=>{
     function sendEmail(e){
         e.preventDefault();
-        emailjs.sendForm('service_1q7skt6', 'template_2d1l6xx',e.target, 'user_NJwqvIzePootzqcL05d4v').then(res=>{
+        emailjs.sendForm('service_983r3p9', 'template_itf1fx9',e.target, 'user_s9ZJHedAg5o3zabj6pXh8').then(res=>{
             console.log(res);
         }).catch(err=>console.log(err));
     }
@@ -31,8 +29,6 @@ const Paymentmsg=()=>{
         </div>
         )}
 
-        
-
         <div className="desc">
             <h4>We accept:-  Paypal, Payoneer,  transfer wise, US bank transfer, Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Bitcoin Cash (BCH), Binance Coin (BNB), and more 10+ cryptocurrency.</h4>
         </div>
@@ -50,7 +46,7 @@ const Paymentmsg=()=>{
                 <h5>
                  Subject
                 </h5>
-                <input className="subject-input" type="text" />
+                <input className="subject-input" name="cust-sub" type="text" />
                 <h5>
                  Your Message
                 </h5>

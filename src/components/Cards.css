@@ -21,11 +21,20 @@
     transition:ease 200ms ease-in, color 200ms ease-in;
     margin-bottom: 5px;
 }
+.card-body font{
+    /* color: blue; */
+    font-weight: 1000;
+    font-size: 25px;
+    text-transform: uppercase;
+}
 .card-body{
      height: 550px;
 }
 .referral-body h2{
     margin-left: -30px;
+}
+.card-body font:hover{
+    color: #fff;
 }
 .card{
     position: relative;
@@ -49,8 +58,9 @@
     margin-right: 10px;
 }
 .card h2{
+    display: none;
     padding: 0.5rem;
-    color: #fff;
+    color: #000;
 }
 .card p{
     color: #fff;

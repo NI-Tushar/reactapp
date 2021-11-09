@@ -273,17 +273,7 @@
          right: 2%;
          flex-direction: column;
      }
-     /* .navigatbar{ */
-         /* width: 100%; */
-         /* right: 0%; */
-         /* flex-direction:row-reverse; */
-         /* position: relative; */
-         /* display: flex; */
-         /* align-items: center; */
-     /* } */
      .navitem ul{
-         /* margin-right:0px; */
-         /* align-items: center; */
          flex-direction: column;
      }
      .navitem li{
